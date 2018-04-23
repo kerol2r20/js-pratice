@@ -1,0 +1,12 @@
+{
+    "standard.options": {
+        "globals": [
+            "describe",
+            "it"
+        ]
+    },
+    "mocha.requires": [
+        "@babel/register",
+        "@babel/@babel/polyfill"
+    ]
+}
